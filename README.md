@@ -31,6 +31,6 @@ Our primary goal is to educate the internet user to adpot this culture of creati
 
 #### Open Canvas
 
-    [Canvas](https://docs.google.com/presentation/d/1J0igZlQGJZFdejgpmOxvQDD3PCRMvcebKTKv-4Bb93I/edit?usp=sharing)
+[Canvas](https://docs.google.com/presentation/d/1J0igZlQGJZFdejgpmOxvQDD3PCRMvcebKTKv-4Bb93I/edit?usp=sharing)
 
 
