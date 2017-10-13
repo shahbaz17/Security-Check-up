@@ -33,4 +33,13 @@ Our primary goal is to educate the internet user to adpot this culture of creati
 
 [Canvas](https://docs.google.com/presentation/d/1J0igZlQGJZFdejgpmOxvQDD3PCRMvcebKTKv-4Bb93I/edit?usp=sharing)
 
+## Example
+
+For example, if I choose a phrase **" icing on the cake "** the possible passwords can be
+
+- IOTCgnee   , first letter of each word in upper-case and last letter of each word in lower-case
+- iotcGNEE    , first letter of each word in lower-case and last letter of each word in upper-case
+- IoTcGnEe   , first letter of each word and last letter of each word in camel case
+- 10tCG|\|3e  , first letter and last letter , here used 1 as I , 0 as o/O |\| as n/N
+
 
